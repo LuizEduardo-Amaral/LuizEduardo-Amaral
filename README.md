@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Luiz Eduardo</h1>
+<h3 align="center">Interested in the data world</h3>
+
+- 🌱 I’m currently learning **Python and SQL**
+
+- 📫 How to reach me **luizguedesamaral20@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luizeduardo-amaral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luizeduardo-amaral/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 
 <!--
 **LuizEduardo-Amaral/LuizEduardo-Amaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
