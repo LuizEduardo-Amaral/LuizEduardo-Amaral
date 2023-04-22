@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luiz Eduardo</h1>
 <h3 align="center">Interested in the data world</h3>
 
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizEduardo-Amaral&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizEduardo-Amaral&layout=compact&langs_count=16&theme=vue"/>
+</div>
+<br>
+
 - 🌱 I’m currently learning **Python and SQL**
 
 - 📫 How to reach me **luizguedesamaral20@gmail.com**
