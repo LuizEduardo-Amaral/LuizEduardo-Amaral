@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz Eduardo</h1>
-<h3 align="center">Interested in the data world</h3>
+<h3 align="center">I'm interested in the data world</h3>
 
 <div>
   
