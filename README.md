@@ -8,7 +8,7 @@
 </div>
 <br>
 
-- 🌱 Aprendendo **Python and SQL**
+- 🌱 Aprendendo **Python e SQL**
 
 - 📫 Contato: **luizguedesamaral20@gmail.com**
 
