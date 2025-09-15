@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Luiz Eduardo</h1>
-<h3 align="center">I'm interested in the data world</h3>
+<h1 align="center">Olá 👋, Sou Luiz Eduardo</h1>
+<h3 align="center">Explorando o mundo dos dados e TI</h3>
 
 <div>
   
@@ -8,16 +8,16 @@
 </div>
 <br>
 
-- 🌱 I’m currently learning **Python and SQL**
+- 🌱 Aprendendo **Python and SQL**
 
-- 📫 How to reach me **luizguedesamaral20@gmail.com**
+- 📫 Contato: **luizguedesamaral20@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Também estou no:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luizeduardo-amaral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luizeduardo-amaral/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
